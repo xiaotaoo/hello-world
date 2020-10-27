@@ -1,2 +1,5 @@
 # hello-world
-Random Repository 
+
+Hello World, HZ here. 
+
+Starting out my GIThub journey
